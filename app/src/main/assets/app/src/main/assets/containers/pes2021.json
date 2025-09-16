@@ -1,0 +1,13 @@
+{
+  "name": "PES 2021",
+  "wine": "wine-9.5-x64",
+  "renderer": "DXVK",
+  "resolution": "1280x720",
+  "dpi": 160,
+  "video_memory": 1024,
+  "ram": 3072,
+  "swap": 2048,
+  "esync": false,
+  "fsync": false,
+  "fps_limit": 30
+}
